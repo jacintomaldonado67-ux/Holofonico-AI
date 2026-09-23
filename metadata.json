@@ -1,0 +1,6 @@
+{
+  "name": "Holofonico IA",
+  "description": "Pipeline de audio holofónico espacial reactivo en tiempo real optimizado para Android con interpolación y asincronía de IA.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
